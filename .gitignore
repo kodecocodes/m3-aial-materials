@@ -287,3 +287,7 @@ DerivedData/
 
 ## Gcc Patch
 /*.gcno
+
+## Python
+.ipynb_checkpoints
+.env
